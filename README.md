@@ -39,7 +39,7 @@ A simple, feature-rich notepad application built with Java Swing that provides e
 # 1. Clone the Repository
 
 ```bash
-git clone <>
+git clone <https://github.com/SandaliW2002/IT-3003/tree/main>
 cd notepad-app
 ```
 
